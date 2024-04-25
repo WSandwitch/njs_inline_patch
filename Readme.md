@@ -2,7 +2,7 @@
 
 
 Patch to add command ```js_inline``` to nginx njs module.
-To Apply this patch, run bash apply.sh /path/to/njs
+To Apply this patch, run ```bash apply.sh /path/to/njs```
 You can use ```js_inline``` in any place available for ```js_import```
 
 Usage example:
