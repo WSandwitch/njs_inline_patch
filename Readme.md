@@ -8,6 +8,7 @@ You can use ```js_inline``` in any place available for ```js_import```
 Usage example:
 -
 ```
+js_path "/tmp/";
 js_inline test from '
     function ttt(){
         return "qqq";
